@@ -1,10 +1,10 @@
 # ¡Bienvenido a mi Repositorio Personal!
 
-Hola y bienvenido a mi repositorio personal, un espacio donde comparto una colección de proyectos desarrollados en diversos lenguajes de programación y tecnologías. Este repositorio es un testimonio de mi aprendizaje y experiencia en el desarrollo de software y hardware durante mi carrera como Ingeniero Telemático. M
+Hola y bienvenido a mi repositorio personal, un espacio donde comparto una colección de proyectos desarrollados en diversos lenguajes de programación y tecnologías. Este repositorio es un testimonio de mi aprendizaje y experiencia en el desarrollo de software y hardware durante la carrera de Ingeniería telemática
 
 ## Proyectos Destacados
 ### Proyecto de Itelar
-
+  En este trabajo hay un despliegue de numerosos routers, switches y servidores asi como una red de mas de 100 personas conectadas hecho en dispositivos cisco.
 
 ### Proyectos de Hardware
 
@@ -12,13 +12,14 @@ Hola y bienvenido a mi repositorio personal, un espacio donde comparto una colec
 - **Proyectos_PIC**
 - **Diseño de Máquinas de Estados en VHDL**: Implementación de máquinas de estados finitos para diversas aplicaciones.
 - **Generadores de Números Aleatorios en VHDL**: Desarrollo de generadores de números aleatorios utilizando técnicas de VHDL.
-- **Microcontrolador PIC16F87A**: Programación en ensamblador para el control de periféricos y tareas específicas.
-- **Procesador Microblaze**: Proyectos en ensamblador para el desarrollo de aplicaciones específicas.
+- **Microcontrolador PIC16F87A**: Programación en ensamblador para el control de periféricos y tareas específicas .
+
 
 ### Proyectos de Software
 
 - **Multimedia_Web_API**
-- **Aplicacion_Proyecto_Web_Cine**
+- **foro de peliculas**
+- - **Crud de administrador**
 
 ### Aplicaciones Web
 
@@ -29,7 +30,7 @@ Hola y bienvenido a mi repositorio personal, un espacio donde comparto una colec
 - **Desarrollo_de_Algoritmo_SAN **: este algoritmo simula eel funcionamiento de algunos materiales y su inestabilidad a ciertas temperaturas para alcanzar una politica optima OSPF en redes de telecomunicaciones .
 
 ### Servidor FTP 
-- **desarrollada en JAVA **: Un sistema de Transferencia de archivos hecho desde 0 en java utilizando Java RMI.
+- **desarrollada en JAVA **: Un sistema de Transferencia de archivos hecho desde 0 en java utilizando llamada a procedimiento remoto
 
 ## Tecnologías y Lenguajes Utilizados
 
@@ -38,15 +39,9 @@ Aquí encontrarás una lista de los lenguajes de programación y tecnologías qu
 - **VHDL**: Proyectos que incluyen diseño de máquinas de estados y generadores de números aleatorios.
 - **Java**: Implementación de algoritmos para la optimización de topologías de red en Net2Plan.
 - **HTML**: Desarrollo de interfaces y estructuras de páginas web.
-- **Assembly**: Programación de bajo nivel para microcontroladores como el PIC16F87A y procesadores como Microblaze.
+- **Assembly**: Programación de bajo nivel para microcontroladores como el PIC16F87A.
 - **JavaScript**: Desarrollo de funcionalidades web dinámicas.
 - **PHP**: Desarrollo de aplicaciones web del lado del servidor.
-
-
-## Herramientas y Frameworks
-
-- **Node.js**: Utilizado para el desarrollo de aplicaciones del lado del servidor.
-- **Angular**: Framework para la construcción de aplicaciones web.
 
 ## Bases de Datos
 
